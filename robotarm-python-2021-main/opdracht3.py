@@ -30,10 +30,4 @@ for i in range(4):
     robotArm.moveRight()
     robotArm.drop()
     robotArm.moveLeft()
-for i in range(4):
-    robotArm.moveRight()
-    robotArm.grab()
-    robotArm.moveLeft()
-    robotArm.moveLeft()
-    robotArm.drop()
 # Na jouw code wachten tot het sluiten van de window:
